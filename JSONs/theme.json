@@ -1,0 +1,34 @@
+{
+    "coreColors": {
+      "primary": "#2156C9",
+      "onPrimary": "#FFFFFF",
+      "error": "#FF0000"
+    },
+    "schemes": {
+      "light": {
+        "primary": "#2156C9",
+        "onPrimary": "#FFFFFF",
+        "error": "#FF0000"
+      },
+      "dark": {
+        "primary": "#2156C9",
+        "onPrimary": "#FFFFFF",
+        "error": "#FF0000"
+      }
+    },
+    "palettes": {
+      "primary": {
+        "00": "#FFFFFF",
+        "60": "#2156C9",
+        "70": "#2224C6"
+      }
+    },
+    "styles": {
+      "title": {
+        "fontSize": 15
+      },
+      "subtitle": {
+        "fontSize": 12
+      }
+    }
+  }
